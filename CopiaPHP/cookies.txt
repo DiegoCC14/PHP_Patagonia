@@ -1,0 +1,39 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ebankpersonas.bancopatagonia.com.ar	TRUE	/eBanking	FALSE	1999999999	JSESSIONID	17D5A1450F871F0AEFA6900C08902CF2.ebankperper272
+.bancopatagonia.com.ar	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_2_sn_B89088D0D7041F1D3DDCFF8F6E764556_perc_100000_ol_0_mul_1_app-3A207d4cac74a882d6_1
+ebankpersonas.bancopatagonia.com.ar	TRUE	/	FALSE	1999999999	cook_personas_	939532042.62751.0000
+www.clubpatagonia.com.ar	TRUE	/	FALSE	1999999999	PHPSESSID	ljjmdovee9q9gkrdtafasmeeal
+www.bcra.gob.ar	TRUE	/	FALSE	1999999999	ASPSESSIONIDCUBCRBTR	GPOFHNHCHCJOKPFPPPGJDMCG
+www.bcra.gob.ar	TRUE	/	FALSE	1999999999	ASPSESSIONIDAWABDSBQ	EEKEFMKCODFKOABMAGGFINPF
+.hiringroom.com	TRUE	/	FALSE	1999999999	__cf_bm	G0TO96oWC9RqsDYtqqIIVWTwzRridqX1rZO84IBJDUI-1748381309-1.0.1.1-wMO9wxcfB4MoopZ8tbIw734JMXLZQXQpTVaBM1I1O54HDbyRg1yQJJ41ire6OxtUPuUq_pVBefA3RZKCzJeqNJR92omACdK.bO6cs2Z1NPc
+bancopatagonia.hiringroom.com	TRUE	/	FALSE	1999999999	SameSite	None
+.apple.com	TRUE	/	FALSE	1999999999	geo	AR
+.facebook.com	TRUE	/	FALSE	1999999999	sb	gy42aHKoUCOw1AS7E6o-wsVU
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	None
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	OzQuv9RuTSo
+youtube.com	TRUE	/	FALSE	1999999999	__Secure-ROLLOUT_TOKEN	CKqn2LiX0qua2QEQnZKZ-svEjQMYnZKZ-svEjQM%3D
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	Z4VtFHkCc9A
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJBUhIEGgAgPQ%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	8LnBzBl2JkBdEslAKgmn4b
+concesionarios.gpat.com.ar	TRUE	/	FALSE	1999999999	__RequestVerificationToken_L0xhbmRpbmc1	YIwDyBgyLIoyztOzxEdnxyla4plo-FnwvsKzb8NfTRxzn2DycIMqRfN8TmQEviaINi33a1HlvM9v13hXC7sflE0jw-3Hz_jx8RjGI7sXNC9HijEfEc8SwFLGTnMmmPzeSJfCbeNZmq3Vjm0nR9Km1g2
+ahorrosybeneficios.bancopatagonia.com.ar	TRUE	/	FALSE	1999999999	PHPSESSID	67o8rpqeuu5skm3ptodl6hckbb
+ahorrosybeneficios.bancopatagonia.com.ar	TRUE	/	FALSE	1999999999	X-Magento-Vary	deleted
+ahorrosybeneficios.bancopatagonia.com.ar	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.clubpatagonia.com.ar	TRUE	/	FALSE	1999999999	AWSALB	vBKFzWoBnw3gL8BcjnmrQgawhJYyEgt5+3aROfUotbi0j2OM44BDdU6P8qhokx1PqEvDKLkDZEcbg1vmCrTY2OjkazC3ij9Yio6heyumqZAOUxIbH3QGmiJd7Wyj
+www.clubpatagonia.com.ar	TRUE	/	FALSE	1999999999	AWSALBCORS	vBKFzWoBnw3gL8BcjnmrQgawhJYyEgt5+3aROfUotbi0j2OM44BDdU6P8qhokx1PqEvDKLkDZEcbg1vmCrTY2OjkazC3ij9Yio6heyumqZAOUxIbH3QGmiJd7Wyj
+www.clubpatagonia.com.ar	TRUE	/	FALSE	1999999999	X-Magento-Vary	cf66bd62701606abc841aa745bade35bd0a7303e
+www.clubpatagonia.com.ar	TRUE	/	FALSE	1999999999	SameSite	Lax
+.www.bcra.gob.ar	TRUE	/	FALSE	1999999999	TS0128cbb5	01532640e8802a438f7c63e57ec38e7bd2fa7332550c86ce5b701549875939a79a04291e9a740cf3427b7f85ce53dab0c44a4dbe408ba8c9bd3fcc6d1869e86a0fae83cf13
+.google.com	TRUE	/	FALSE	1999999999	NID	524=ky5u1vbHWOdBC9003rj09IPNydFHIph1drNCRWRapNZapEiM_ztKl_5xcBElmdIbUz3uRP4sEHpaT50Mf8bZ8ctlo390dIH1AI2HvRBVBuRZBMIffsbQDeM920WKyuUdGdkkRXxbESL0unnzNkXIkOnW8_nysB0ocR9LyAfTC32G9di5e2rOisXE7VymV7Wu
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A174838141038106905
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A174838141038106905
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_1YiqO29WM/xVk/L0kfqwNw=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A174838141038106905
+.twitter.com	TRUE	/	FALSE	1999999999	__cf_bm	koxtYLL9fHcmNnwI1nEbC2NCLJCWVAANaWCmTtIR3Zo-1748381410-1.0.1.1-8cHyhi1G2YnSEKwceSw6euBBx_wFrc2yZmqated6xJ.RgzJMn_fAqJSEjTD3UPQxylTPFvuqVclOs_.bnZrzk1yQWkzgtCCsaqbtiX7hpP0
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+instagram.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+

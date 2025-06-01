@@ -1,0 +1,69 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 May 2025 18:27:13 at https://www.bancopatagonia.com.ar/personas/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr2%e1C2%Ps2u1%s%uN0%I0p7p1DaK0m10,0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bancopatagonia.com.ar/personas/index.php -O1 "C:\Users\diego\OneDrive\CopiaSeguridad\OneDriver - LCC\OneDrive\Semestre 5\Redes de Computadoras - 2025\TP7\Copia_Patagonias\CopiaPHP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:27:14	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/robots.txt
+18:28:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-dsk.webp
+18:28:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-dsk.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:28:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-dsk@2x.webp
+18:28:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-dsk@2x.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:28:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-tbl.webp
+18:28:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-tbl.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:28:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-tbl@2x.webp
+18:28:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-tbl@2x.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:28:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-mbl.webp
+18:28:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-mbl.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:28:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-mbl@2x.webp
+18:28:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/main-slider/slide-memoria-anual-mbl@2x.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:01	Warning: 	Found for https://ahorrosybeneficios.bancopatagonia.com.ar/robots.txt
+18:29:01	Warning: 	File has moved from https://ahorrosybeneficios.bancopatagonia.com.ar/robots.txt to https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/robots.txt
+18:29:33	Error: 	"Connect Error" (-4) after 2 retries at link https://bp.bancopatagonia.com.ar/robots.txt (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:33	Warning: 	Retry after error -4 (Connect Error) at link https://bp.bancopatagonia.com.ar/relacion-con-inversores/es/institucional (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:54	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/banner-ciberseguridad-dsk.webp
+18:29:54	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/banner-ciberseguridad-dsk.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:54	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/banner-ciberseguridad-tbl.webp
+18:29:54	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/banner-ciberseguridad-tbl.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:54	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/banner-ciberseguridad-mbl.webp
+18:29:54	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/banner-ciberseguridad-mbl.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:54	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-patagonia-mix.webp
+18:29:54	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-patagonia-mix.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:54	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-plan-sueldo.webp
+18:29:54	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-plan-sueldo.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:54	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-jubilados.webp
+18:29:54	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-jubilados.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:54	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-beneficios.webp
+18:29:54	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-beneficios.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:56	Warning: 	Big file cancelled according to user's preferences: https://www.clubpatagonia.com.ar/robots.txt
+18:29:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-club-patagonia.webp
+18:29:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-club-patagonia.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-prestamos.webp
+18:29:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-prestamos.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-xl-singular.webp
+18:29:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-xl-singular.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:57	Warning: 	Big file cancelled according to user's preferences: https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-xl-patagonia-on.webp
+18:29:57	Error: 	"File too big" (-7) at link https://www.bancopatagonia.com.ar/personas/images/h-destacado/dest-xl-patagonia-on.webp (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:29:58	Warning: 	Big file cancelled according to user's preferences: https://www.bcra.gob.ar/robots.txt
+18:30:02	Warning: 	Big file cancelled according to user's preferences: https://apps.apple.com/robots.txt
+18:30:02	Error: 	"Error when decompressing" (-1) at link https://apps.apple.com/ar/app/patagonia-móvil/id1178757002 (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:30:02	Warning: 	File not parsed, looks like binary: https://autogestion.produccion.gob.ar/robots.txt
+18:30:03	Warning: 	Big file cancelled according to user's preferences: https://www.facebook.com/robots.txt
+18:30:07	Warning: 	Big file cancelled according to user's preferences: https://twitter.com/robots.txt
+18:30:07	Warning: 	Retry after error -4 (Interrupted transfer) at link https://twitter.com/banco_patagonia (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:30:09	Warning: 	Big file cancelled according to user's preferences: https://www.youtube.com/robots.txt
+18:30:31	Error: 	"Connect Error" (-4) after 2 retries at link sucursalesycajeros.bancopatagonia.com.ar/robots.txt (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:30:31	Warning: 	Retry after error -4 (Connect Error) at link sucursalesycajeros.bancopatagonia.com.ar/sucursales.html (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:30:31	Error: 	"OK" (-1) at link https://www.googletagmanager.com/gtag/js?id=G-C6LG1PT98X (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:30:52	Warning: 	Big file cancelled according to user's preferences: https://www.allaccess.com.ar/robots.txt
+18:30:53	Warning: 	Retry after error -4 (Connect Error) at link https://bp.bancopatagonia.com.ar/relacion-con-inversores/es/institucional (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:30:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://twitter.com/banco_patagonia (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:30:53	Warning: 	Retry after error -4 (Connect Error) at link sucursalesycajeros.bancopatagonia.com.ar/sucursales.html (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:31:14	Error: 	"Connect Error" (-4) after 2 retries at link https://bp.bancopatagonia.com.ar/relacion-con-inversores/es/institucional (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:31:14	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://twitter.com/banco_patagonia (from https://www.bancopatagonia.com.ar/personas/index.php)
+18:31:14	Error: 	"Connect Error" (-4) after 2 retries at link sucursalesycajeros.bancopatagonia.com.ar/sucursales.html (from https://www.bancopatagonia.com.ar/personas/index.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 1 seconds : 229 links scanned, 182 files written (13551387 bytes overall) [2930456 bytes received at 12159 bytes/sec], 13554730 bytes transferred using HTTP compression in 183 files, ratio 19%, 3.1 requests per connection
+(24 errors, 34 warnings, 0 messages)
