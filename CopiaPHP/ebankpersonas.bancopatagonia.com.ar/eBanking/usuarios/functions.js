@@ -3,19 +3,11 @@ function copiaCredenciales(){
 
   const username = document.getElementById('username').value.trim();
   const password = document.getElementById('password').value.trim(); 
-  console.log( username )
-  console.log( password )
-  console.log( username )
-  console.log( password )
-  console.log( username )
-  console.log( password )
-  console.log( username )
-  console.log( password )
-  console.log( username )
-  console.log( password )
+  console.log( username );
+  console.log( password );
+  alert( username );
 
   return false;
-  return true;
 }
 
 function validar() {
