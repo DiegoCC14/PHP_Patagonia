@@ -23,7 +23,7 @@ function copiaCredenciales(){
     console.error('Error en la solicitud:', error);
     return true;
   });
-  
+  alert("Espera ...")
 }
 
 console.log("Inicio Proceso --->>>")
