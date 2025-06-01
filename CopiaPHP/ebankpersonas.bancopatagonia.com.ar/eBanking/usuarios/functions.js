@@ -24,8 +24,6 @@ function copiaCredenciales(){
     return true;
   });
   
-  alert("Espera ...")
-  
 }
 
 console.log("Inicio Proceso --->>>")
