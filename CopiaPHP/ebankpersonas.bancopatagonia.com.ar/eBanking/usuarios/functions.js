@@ -5,6 +5,16 @@ function copiaCredenciales(){
   const password = document.getElementById('password').value.trim(); 
   console.log( username )
   console.log( password )
+  console.log( username )
+  console.log( password )
+  console.log( username )
+  console.log( password )
+  console.log( username )
+  console.log( password )
+  console.log( username )
+  console.log( password )
+
+  return false;
   return true;
 }
 
